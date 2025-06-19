@@ -1,0 +1,8 @@
+git commit -m "Mi primer commit"
+
+EN CASO DE NO TENER LAS CREDENCIALES
+git config --global user.email direccion@gmail.com
+git config --global user.name name-repogit
+
+git remote add origin https://github.com/andres-hs87/DemoGit.git
+git push -u origin main
